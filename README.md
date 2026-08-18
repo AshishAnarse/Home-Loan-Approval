@@ -30,4 +30,4 @@ ML project to automate Home Loan Approval from the data provided by applicants i
     2. Decision Tree: The lower test performance can be associated with tendency of decision tree to fit patterns and generalizing less efectively to unseen observations.
     3. kNN: The kNN results suggest that applicants with similar standardized demographics, financial, credit and loan characteristics tend to have similar loan approval outcomes.
     4. Naive Bayes: It provides useful classification performance, although its simplifying conditional-independence assumptions may not fully represent the relationships between the financial and demographic variables in the dataset.
-    5. 
+    5. Random Forest: The improvement with respect to the Decision Tree model demonstrates one of the major advantages of ensemble learning: combining predictions from multiple randomized Decision Trees can reduce the variance associated with relying on a single tree. It also achieved approximately 95.29% Recall, indicating strong identification of Approved loan applications.
