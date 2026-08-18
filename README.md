@@ -12,5 +12,6 @@ b.) The project uses a loan saction classification dataset containing informatio
       Approved: 422 (68.73%)
       Rejected: 192 (31.27%)
     The dataset is therefore moderately imbalanced towards the approved class
-c.) 
+c.) Github repository link: https://github.com/AshishAnarse/Home-Loan-Approval
+d.) 
     
